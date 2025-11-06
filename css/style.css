@@ -80,3 +80,7 @@ footer {
 .carousel-indicators .active {
   background-color: #444;
 }
+
+.carousel-indicators {
+    top: 11rem;
+}
